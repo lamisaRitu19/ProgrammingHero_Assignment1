@@ -46,3 +46,38 @@ a {
 .bottom-margin {
     margin-bottom: 30px;
 }
+h2 {
+    font-size: 48px;
+    color: #13103A;
+    text-align: center;
+}
+h3 {
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.mission-section {
+    display: flex;
+    justify-content: center;
+}
+.width-22 {
+    width: 22%;
+    padding: 30px;
+    margin: 0 12px;
+    border-radius: 30px;
+}
+.width-22 img {
+    width: 40%;
+}
+.width-22 p {
+    font-size: 16px;
+}
+.bg-blue {
+    background: rgba(79, 157, 166, .1);
+}
+.bg-pink {
+    background: rgba(255, 89, 89, .1);
+}
+.bg-orange {
+    background-color: #FFF4D6;
+}

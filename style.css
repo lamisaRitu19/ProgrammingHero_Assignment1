@@ -117,3 +117,19 @@ h3 {
     text-align: left;
     margin-left: 80px;
 }
+footer {
+    color: #D9DBE1;
+    padding: 30px 0 50px;
+    text-align: center;
+    background-color: #0B0D17;
+}
+footer h3 {
+    font-family: 'Lobster', cursive;
+}
+footer p {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.color-red {
+    color: #FF5959;
+}

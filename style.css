@@ -48,11 +48,13 @@ a {
 }
 h2 {
     font-size: 48px;
+    font-weight: 700;
     color: #13103A;
     text-align: center;
 }
 h4 {
     font-size: 24px;
+    font-weight: 700;
     margin-top: 10px;
     margin-bottom: 0;
 }
@@ -83,6 +85,7 @@ h4 {
 }
 h3 {
     font-size: 36px;
+    font-weight: 700;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -116,6 +119,24 @@ h3 {
 #align-left {
     text-align: left;
     margin-left: 80px;
+}
+.corona-section {
+    display: flex;
+}
+.corona-section h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+.corona-section img {
+    width: 40%;
+    margin-left: 260px;
+}
+.corona-section p {
+    width: 76%;
+}
+#align-center {
+    text-align: center;
 }
 footer {
     color: #D9DBE1;
